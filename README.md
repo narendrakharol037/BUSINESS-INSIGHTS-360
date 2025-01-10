@@ -7,7 +7,7 @@ Atliq, an imaginary hardware company specializing in products such as keyboards,
 ### TOOLS USED
 1. MYSQL - It used for DataBase, to connect with power bi, so that we can get real time data.
    
-2. POWER BI - It used for Data Modelling, Data Cleaning, Data Transformation, Creating Visuals and Data visualisation etc.
+2. POWER BI - It used for Data Modeling, Data Cleaning, Data Transformation, Creating Visuals and Data visualisation etc.
 
 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzU3OGFjNzQtZmQwZC00OTM4LTkwYTMtMzIxYTk4MWVjY2E2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
@@ -40,6 +40,33 @@ Atliq, an imaginary hardware company specializing in products such as keyboards,
 ### Executive View
 
 ![bi_executive](https://github.com/user-attachments/assets/01ca7af5-a3d1-4ae2-ae73-7cb6c0cc09ce)
+
+### What Challanges I Faced
+
+1. Running time of this file is high, I did overcome this issue by reducing file size by using Dax Studio.
+2. I Faced many dax challanges, I solved these issues by helping of Chat Gpt and Google.
+3. I faced some visual customisation issues, and I solved these isuues by helping of some you tube videos.
+
+### What I learnt
+
+1. Power Bi and MySQL Connection by server.
+2. Complex Data Modeling.
+3. Data Cleaning and Data Transformation.
+4. Dax Studio.
+5. Bookmarks.
+6. Visual Customization.
+7. Field Parameter.
+8. Complex Dax Formulas.
+9. Sales, Marketing, Finance and Supply Chain Metrics
+10. Fiscal Year Concept
+
+### Some Important Insights
+
+1. AtliQ has gained maximum Net sales in FY 2021, that is $823.85M. and Lowest Net Sales gain in FY 2018 that is $29.11M.
+2. Maximum Revenue generted by the Amazon that is 13.2%.
+3. Maximum Revenue generted by the Product AQ BZ Allin 1 That is 4.1%.
+4. Highest Net Sales generted by the India that is $210.67M.
+
 
 
 
