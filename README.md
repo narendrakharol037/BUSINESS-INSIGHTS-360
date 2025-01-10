@@ -13,4 +13,8 @@ Atliq, an imaginary hardware company specializing in products such as keyboards,
 
 [MyPortfolio](https://codebasics.io/portfolio/Narendra-Kharol)
 
+### Data Model Overview
+
+![business data model](https://github.com/user-attachments/assets/61b7336e-6422-43c3-a92f-5364333c7862)
+
 
