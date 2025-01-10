@@ -9,6 +9,8 @@ Atliq, an imaginary hardware company specializing in products such as keyboards,
    
 2. POWER BI - It used for Data Modelling, Data Cleaning, Data Transformation, Creating Visuals and Data visualisation etc.
 
-#### Live Dashboard
+[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzU3OGFjNzQtZmQwZC00OTM4LTkwYTMtMzIxYTk4MWVjY2E2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-https://app.powerbi.com/view?r=eyJrIjoiMzU3OGFjNzQtZmQwZC00OTM4LTkwYTMtMzIxYTk4MWVjY2E2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+[MyPortfolio](https://codebasics.io/portfolio/Narendra-Kharol)
+
+
